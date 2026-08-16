@@ -1,57 +1,238 @@
-  吉隆坡黑体 / Kuala Gothic / クアラ角ゴシック
+吉隆坡黑体
 ====================================================================
 
 【字体简介 / Introduction】
-吉隆坡黑体（Kuala Gothic / クアラ角ゴシック）是一款由子曜（Ziyao）基于多款
-优质开源字体融合合并而成的多语言无衬线（Sans-Serif / 黑体）字体。
+吉隆坡黑体（Kuala Gothic / クアラ角ゴシック）是一款由 Hinata Hikari 基于多款
+优质开源字体，利用魔兽字体合并补全工具融合合并而成的多语言无衬线（Sans-Serif / 黑体）字体。
 
 本字体旨在提供干净利落的西文排版体验，同时完美兼容中日韩（CJK）字形渲染。
 字体内置多语言 Localized Name Table 映射：
-  - 简体中文（SC）：吉隆坡黑体
-  - 繁体中文 / 英文（EN）：Kuala Gothic
-  - 日语（JP）：クアラ角ゴシック
+  - 简体中文（SC）：吉隆坡黑体
+  - 英文（EN）：Kuala Gothic
+  - 日语（JP）：クアラ角ゴシック
 
 --------------------------------------------------------------------
 【版本信息 / Version Info】
-  - 字体名称：吉隆坡黑体 (Kuala Gothic)
-  - 当前版本：Version 1.304
-  - 发布日期：2026年8月
-  - 字体格式：TrueType (.ttf) / OpenType (.otf)
-  - 维护者/合并者：子曜 (Ziyao)
+  - 字体名称：吉隆坡黑体 (Kuala Gothic)
+  - 当前版本：Version 1.304
+  - 发布日期：2026年8月
+  - 字体格式：TrueType (.ttf)
+  - 维护者/合并者：Hinata Hikari
 
 --------------------------------------------------------------------
 【字库融合来源 / Font Credits & Acknowledgments】
 本字体融合并感谢以下优秀的开源字体项目：
 
-  1. 西文 & 符号 (Latin & Symbols):
-     - TeX Gyre Heros (经典 Helvetica 优秀替代品，线条利落清晰)
+  1. 西文 & 符号 (Latin & Symbols):
+     - TeX Gyre Heros (经典 Helvetica 优秀替代品，线条利落清晰)
 
-  2. 简体中文 & CJK 汉字 (Simplified Chinese & CJK):
-     - 霞鹜新晰黑 (LXGW Neo XiHei) (基于 ScreenGothic，屏幕显示极为清晰)
+  2. 简体中文 & CJK 汉字 (Simplified Chinese & CJK):
+     - 霞鹜新晰黑 (LXGW Neo XiHei) (基于 IPAexGothic，屏幕显示极为清晰)
 
-  3. 日文假名 & 补充补全 (Japanese Kanji & Kana):
-     - IPAex ゴシック (IPAexGothic) (提供精准规范的日文环境字形支持)
+  3. 日文假名 & 补充补全 (Japanese Kanji & Kana):
+     - IPAex ゴシック (IPAexGothic) (提供精准规范的日文环境字形支持)
 
 --------------------------------------------------------------------
 【安装方法 / Installation】
 
 ■ Windows:
-  解压后，双击 .ttf / .otf 文件，点击顶部的“安装(Install)”按钮即可；
-  或将字体文件复制粘贴至 C:\Windows\Fonts 目录下。
+  解压后，双击 .ttf 文件，点击顶部的“安装(Install)”按钮即可；
+  或将字体文件复制粘贴至 C:\Windows\Fonts 目录下。
 
 ■ macOS:
-  双击字体文件，在弹出的字体预览窗口中点击“安装字体(Install Font)”。
+  双击字体文件，在弹出的字体预览窗口中点击“安装字体(Install Font)”。
 
 ■ Linux:
-  将字体文件复制至 ~/.local/share/fonts/ 或 /usr/share/fonts/ 后，
-  运行 `fc-cache -fv` 刷新字体缓存。
+  将字体文件复制至 ~/.local/share/fonts/ 或 /usr/share/fonts/ 后，
+  运行 `fc-cache -fv` 刷新字体缓存。
 
 --------------------------------------------------------------------
 【许可证与使用须知 / License】
-  - 本字体融合自开源字体项目（SIL Open Font License / IPA Font License），
-    继承其开源与免费使用属性。
-  - 个人及商业用途均可免费使用。
+  - 本字体融合自开源字体项目（IPA Font License），
+    继承其开源与免费使用属性。
+  - 个人及商业用途均可免费使用。
 
 --------------------------------------------------------------------
 感谢你的下载与使用！如有任何建议或反馈，欢迎交流。
 ====================================================================
+
+
+
+クアラ角ゴシック
+=================================================================
+
+【フォント紹介】 クアラ角ゴシック（吉隆坡黑体/Kuala Gothic）は、Hinata Hikari氏
+がWarcraftフォントマージ＆補完ツールを使用して複数の高品質なオープンソースフォントを
+統合して作成した、多言語対応のサンセリフフォントです。
+
+このフォントは、すっきりとした明瞭な西洋風のテキストレイアウトを実現すると同時に、
+CJK（中国語、日本語、韓国語）フォントのレンダリングにも完全に対応しています。
+
+このフォントには、多言語対応のローカライズドネームテーブル（LNT）マッピングが組み込まれています。
+
+- 簡体字中国語 (SC): 吉隆坡黑体
+
+- 英語 (EN): Kuala Gothic
+
+- 日本語 (JP): クアラ角ゴシック
+
+--------------------------------------------------------------------
+
+【バージョン情報】
+
+- フォント名: クアラ角ゴシック (Kuala Gothic)
+
+- 現在のバージョン: バージョン 1.304
+
+- リリース日: 2026年8月
+
+- フォント形式: TrueType (.ttf)
+
+- メンテナー/マージ担当: Hinata Hikari
+
+--------------------------------------------------------------------
+
+【フォントクレジットと謝辞】
+このフォントは、以下の優れたオープンソースフォントプロジェクトを組み込んでおり、感謝の意を表します。
+
+1. ラテン文字と記号:
+
+- TeX Gyre Heros (クラシックなHelveticaの優れた代替フォントで、すっきりとしたシャープ
+なラインが特徴です)
+
+2. 簡体字中国語CJK文字：
+
+- LXGW Neo XiHei（IPAexGothicをベースにした、非常にクリアな画面表示）
+
+3. 日本語漢字・仮名：
+
+- IPAex Gothic（正確で標準化された日本語文字をサポート）
+
+--------------------------------------------------------------------
+
+【インストール方法】
+
+■ Windows：
+
+解凍後、.ttfファイルをダブルクリックし、上部の「インストール」ボタンをクリックします。
+
+または、フォントファイルをC:\Windows\Fontsディレクトリにコピー＆ペーストします。
+
+■ macOS：
+
+フォントファイルをダブルクリックし、ポップアップ表示されるフォントプレビューウィンドウで
+「フォントのインストール」をクリックします。
+
+■ Linux：
+
+フォントファイルを~/.local/share/fonts/または/usr/share/fonts/にコピーし、
+
+`fc-cache -fv`を実行してフォントキャッシュを更新します。
+
+
+--------------------------------------------------------------------
+
+【ライセンスと使用に関する注意事項】
+
+- このフォントはオープンソースフォントプロジェクト（IPAフォントライセンス）から派生しており、
+
+オープンソースかつ自由に使用できるという特性を受け継いでいます。
+
+- 個人利用、商用利用を問わず、無料でご利用いただけます。
+
+-------------------------------------------------------------------
+
+ダウンロードしてご利用いただきありがとうございます！ご意見・ご感想をお待ちしております。
+
+========================================================================
+
+
+Kuala Gothic
+=====================================================================
+
+【Font Introduction】
+Kuala Gothic (クアラ角ゴシック) is a multilingual sans-serif (black) font 
+created by Hinata Hikari, based on a fusion of several high-quality 
+open-source fonts, powered by Warcraft Font Merger.
+
+This font aims to provide a clean and crisp Western typography 
+experience, while being perfectly compatible with CJK 
+(Chinese, Japanese, and Korean) font rendering.
+
+Font includes built-in multilingual Localized Name Table mappings:
+
+- Simplified Chinese (SC): 吉隆坡黑体
+
+- English (EN): Kuala Gothic
+
+- Japanese (JP): クアラ角ゴシック
+
+--------------------------------------------------------------------
+
+【Version Information】
+
+- Font Name: Kuala Gothic
+
+- Current Version: Version 1.304
+
+- Release Date: August 2026
+
+- Font Format: TrueType (.ttf)
+
+- Maintainer/Merger: Hinata Hikari
+
+--------------------------------------------------------------------
+
+【Font Credits & Acknowledgments】
+This font incorporates and thanks the following excellent open-source 
+font projects:
+
+1. Latin & Symbols:
+   - TeX Gyre Heros (An excellent alternative to classic Helvetica, with 
+     clean and crisp lines)
+
+2. Simplified Chinese & CJK Characters:
+   - LXGW Neo XiHei (Based on IPAexGothic, extremely clear screen display)
+
+3. Japanese Kanji & Kana:
+   - IPAex Gothic (Provides accurate and standardized Japanese 
+     character support)
+     
+--------------------------------------------------------------------
+
+【Installation Method】
+
+■ Windows:
+
+After decompression, double-click the .ttf file and click the 
+"Install" button at the top;
+
+Or copy and paste the font file to the C:\Windows\Fonts directory.
+
+■ macOS:
+
+Double-click the font file, and click "Install Font" in the pop-up 
+font preview window.
+
+■ Linux:
+
+Copy the font file to ~/.local/share/fonts/ or /usr/share/fonts/,
+
+then run `fc-cache -fv` to refresh the font cache.
+
+--------------------------------------------------------------------
+
+【License and Usage Notice】
+
+- This font is derived from the open-source font project 
+(IPA Font License),
+
+inheriting its open-source and free-to-use attributes.
+
+- It can be used free of charge for both personal and commercial purposes.
+
+--------------------------------------------------------------------
+
+Thank you for downloading and using it! Any suggestions or feedback are welcome.
+
+=====================================================================
