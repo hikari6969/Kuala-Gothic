@@ -1,4 +1,4 @@
-吉隆坡黑体 / Kuala Gothic / クアラ角ゴシック
+吉隆坡黑体
 ====================================================================
 
 【字体简介 / Introduction】
@@ -55,6 +55,137 @@
 
 ※ 免责声明：本字体基于原作者的开源协议进行合并与分发，不提供任何明示或暗示的担保。
 
+--------------------------------------------------------------------
+感谢你的下载与使用！如有任何建议或反馈，欢迎交流。
+====================================================================
+
+
+クアラ角ゴシック
+====================================================================
+
+【フォント紹介】
+クアラ角ゴシック（吉隆坡黑体 / Kuala Gothic）は、Hinata Hikari 氏が
+Warcraft フォントマージ＆補完ツールを使用して複数の高品質なオープンソースフォントを
+統合して作成した、多言語対応のサンセリフフォントです。
+
+このフォントは、すっきりとした明瞭な西洋風のテキストレイアウトを実現すると同時に、
+CJK（中国語、日本語、韓国語）フォントのレンダリングにも完全に対応しています。
+
+このフォントには、多言語対応のローカライズドネームテーブル（LNT）マッピングが組み込まれています。
+
+- 簡体字中国語 (SC): 吉隆坡黑体
+- 英語 (EN): Kuala Gothic
+- 日本語 (JP): クアラ角ゴシック
+- 韓国語 (KR): 쿠알라 고딕
+
+--------------------------------------------------------------------
+【バージョン情報】
+
+- フォント名: クアラ角ゴシック (Kuala Gothic)
+- 現在のバージョン: バージョン 2.404
+- 初回リリース日: 2026年8月
+- フォント形式: TrueType (.ttf)
+- メンテナー/マージ担当: Hinata Hikari
+
+--------------------------------------------------------------------
+【フォントクレジットと謝辞】
+このフォントは、以下の優れたオープンソースフォントプロジェクトを組み込んでおり、感謝の意を表します。
+
+1. ラテン文字と記号:
+   - Nimbus Sans（Helvetica の代替フォント）
+
+2. CJK 部分:
+   - 思源黑体（Source Han Sans / Noto Sans）
+
+--------------------------------------------------------------------
+【インストール方法】
+
+■ Windows:
+解凍後、.ttf ファイルをダブルクリックし、上部の「インストール」ボタンをクリックします。
+または、フォントファイルを C:\Windows\Fonts ディレクトリにコピー＆ペーストします。
+
+■ macOS:
+フォントファイルをダブルクリックし、ポップアップ表示されるフォントプレビューウィンドウで
+「フォントのインストール」をクリックします。
+
+■ Linux:
+フォントファイルを ~/.local/share/fonts/ または /usr/share/fonts/ にコピーし、
+`fc-cache -fv` を実行してフォントキャッシュを更新します。
+
+--------------------------------------------------------------------
+【ライセンスと使用に関する注意事項】
+
+■ 日本語 (Japanese)
+本フォントは複数のオープンソースフォントを統合して作成された派生作品であり、OFL で配布されます。個人利用・商用利用を問わず、無料でご利用いただけます：
+1. 全体作品：
+   - フォントパッケージ全体は、Open Font License (OFL) に基づき配布されます。
+   - 本クアラ角ゴシック（Kuala Gothic）に基づく再改変または再配布を行う場合は、引き続き OFL ライセンスを維持する必要があります。
+
+※ 免責事項：本フォントは原著作者のオープンソースライセンスに基づいて統合および配布されており、明示または黙示を問わず、いかなる保証も提供されません。
+
+--------------------------------------------------------------------
+ダウンロードしてご利用いただきありがとうございます！ご意見・ご感想をお待ちしております。
+====================================================================
+
+
+Kuala Gothic
+====================================================================
+
+【Font Introduction】
+Kuala Gothic (クアラ角ゴシック) is a multilingual sans-serif font
+created by Hinata Hikari, based on a fusion of several high-quality
+open-source fonts, powered by Warcraft Font Merger.
+
+This font aims to provide a clean and crisp Western typography
+experience, while being perfectly compatible with CJK
+(Chinese, Japanese, and Korean) font rendering.
+
+Font includes built-in multilingual Localized Name Table mappings:
+
+- Simplified Chinese (SC): 吉隆坡黑体
+- English (EN): Kuala Gothic
+- Japanese (JP): クアラ角ゴシック
+- Korean (KR): 쿠알라 고딕
+
+--------------------------------------------------------------------
+【Version Information】
+
+- Font Name: Kuala Gothic
+- Current Version: Version 2.404
+- First Release Date: August 2026
+- Font Format: TrueType (.ttf)
+- Maintainer/Merger: Hinata Hikari
+
+--------------------------------------------------------------------
+【Font Credits & Acknowledgments】
+This font incorporates and thanks the following excellent open-source
+font projects:
+
+1. Latin & Symbols:
+   - Nimbus Sans (Alternative to Helvetica)
+
+2. CJK Parts:
+   - Source Han Sans / Noto Sans
+
+--------------------------------------------------------------------
+【Installation Method】
+
+■ Windows:
+After decompression, double-click the .ttf file and click the
+"Install" button at the top;
+Or copy and paste the font file to the C:\Windows\Fonts directory.
+
+■ macOS:
+Double-click the font file, and click "Install Font" in the pop-up
+font preview window.
+
+■ Linux:
+Copy the font file to ~/.local/share/fonts/ or /usr/share/fonts/,
+then run `fc-cache -fv` to refresh the font cache.
+
+--------------------------------------------------------------------
+【License and Usage Notice】
+
 ■ English
 This font is a derivative work compiled from multiple open-source fonts, distributed under OFL. It is free for both personal and commercial use:
 1. Overall Work:
@@ -63,14 +194,6 @@ This font is a derivative work compiled from multiple open-source fonts, distrib
 
 * Disclaimer: This font is merged and distributed based on the original creators' open-source licenses and is provided without warranties of any kind.
 
-■ 日本語 (Japanese)
-本フォントは複数のオープンソースフォントを統合して作成された派生作品であり、 OFL で配布されます。個人利用・商用利用を問わず、無料でご利用いただけます：
-1. 全体作品：
-   - フォントパッケージ全体は、Open Font License (OFL) に基づき配布されます。
-   - 本クアラ角ゴシック（Kuala Gothic）に基づく再改変または再配布を行う場合は、引き続き OFL ライセンスを維持する必要があります。
-
-※ 免責事項：本フォントは原著作者のオープンソースライセンスに基づいて統合および配布されており、明示または黙示を問わず、いかなる保証も提供されません。
-
 --------------------------------------------------------------------
-感谢你的下载与使用！如有任何建议或反馈，欢迎交流。
+Thank you for downloading and using it! Any suggestions or feedback are welcome.
 ====================================================================
