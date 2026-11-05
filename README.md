@@ -15,7 +15,7 @@
 --------------------------------------------------------------------
 【版本信息 / Version Info】
   - 字体名称：吉隆坡黑体 (Kuala Gothic)
-  - 当前版本：Version 2.404
+  - 当前版本：Version 2.504
   - 首次发布日期：2026年8月
   - 字体格式：TrueType (.ttf)
   - 维护者/合并者：Hinata Hikari
@@ -28,7 +28,7 @@
      - Nimbus Sans (Helvetica 替代品 / Alternative to Helvetica)
 
   2. 中日韩部分 (CJK Parts):
-     - 思源黑体 (Noto Sans)
+     - IBM Plex 黑体 (IBM Plex Sans)
 
 --------------------------------------------------------------------
 【安装方法 / Installation】
@@ -82,7 +82,7 @@ CJK（中国語、日本語、韓国語）フォントのレンダリングに�
 【バージョン情報】
 
 - フォント名: クアラ角ゴシック (Kuala Gothic)
-- 現在のバージョン: バージョン 2.404
+- 現在のバージョン: バージョン 2.504
 - 初回リリース日: 2026年8月
 - フォント形式: TrueType (.ttf)
 - メンテナー/マージ担当: Hinata Hikari
@@ -95,7 +95,7 @@ CJK（中国語、日本語、韓国語）フォントのレンダリングに�
    - Nimbus Sans（Helvetica の代替フォント）
 
 2. CJK 部分:
-   - 思源黑体（Source Han Sans / Noto Sans）
+   - IBM Plex Sans
 
 --------------------------------------------------------------------
 【インストール方法】
@@ -151,7 +151,7 @@ Font includes built-in multilingual Localized Name Table mappings:
 【Version Information】
 
 - Font Name: Kuala Gothic
-- Current Version: Version 2.404
+- Current Version: Version 2.504
 - First Release Date: August 2026
 - Font Format: TrueType (.ttf)
 - Maintainer/Merger: Hinata Hikari
@@ -165,7 +165,7 @@ font projects:
    - Nimbus Sans (Alternative to Helvetica)
 
 2. CJK Parts:
-   - Source Han Sans / Noto Sans
+   - IBM Plex Sans
 
 --------------------------------------------------------------------
 【Installation Method】
